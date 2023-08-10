@@ -18,7 +18,6 @@ export default function HomePage() {
       >
         {/* Post Owner Example*/}
         <PostOwner
-          img="/profileImages/IMG_1029.jpg"
           fname="Peerawich"
           lname="Rattanahiran"
           code="650610794"
